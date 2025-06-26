@@ -16,6 +16,36 @@ I'm Daniel Ríos Zúñiga, a student of Data Science & Mathematics at Tecnológi
 
 ### 💼 Projects
 
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="300px" style="padding: 10px;">
+      <a href="https://github.com/DanielRiosZ/emissions-model" target="_blank">
+        <img src="https://via.placeholder.com/300x170.png?text=Emissions+Model" width="300px" style="border-radius: 12px;"><br><br>
+        <strong>Emissions Forecast Model</strong><br>
+        <sub>ML-based prediction of CO₂ emissions using real data</sub>
+      </a>
+    </td>
+    <td align="center" width="300px" style="padding: 10px;">
+      <a href="https://github.com/DanielRiosZ/reforestation-vrp" target="_blank">
+        <img src="https://via.placeholder.com/300x170.png?text=Reforestation+VRP" width="300px" style="border-radius: 12px;"><br><br>
+        <strong>Reforestation Optimizer</strong><br>
+        <sub>Routing and planting strategy using VRP and Pyomo</sub>
+      </a>
+    </td>
+    <td align="center" width="300px" style="padding: 10px;">
+      <a href="https://github.com/DanielRiosZ/streamlit-dashboard" target="_blank">
+        <img src="https://via.placeholder.com/300x170.png?text=Data+Dashboard" width="300px" style="border-radius: 12px;"><br><br>
+        <strong>Interactive Data Dashboard</strong><br>
+        <sub>Web-based data explorer built with Streamlit</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
 *(Projects coming soon — currently preparing my portfolio for publication)* 🚧
 
 ---
